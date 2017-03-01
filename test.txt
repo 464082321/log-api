@@ -1,2 +1,2 @@
 something init
-this row is insert by git2
+this row is insert by git1this row is insert by git2
